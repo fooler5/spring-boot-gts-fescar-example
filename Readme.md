@@ -40,11 +40,11 @@ Fescar全称为：Fast Easy Commit And Rollback，是阿里巴巴公司基于TXC
 
 1. 前往Fescar Github官方页面下载最新版本的 
 
-   [Fescar-Server]: https://github.com/alibaba/fescar/releases
+    https://github.com/alibaba/fescar/releases
 
 2. 前往Nacos Github官方页面下载最新版本的 
 
-   [Nacos]: https://github.com/alibaba/nacos/releases
+    https://github.com/alibaba/nacos/releases
 
 3. clone此项目到本地，使用maven构建导入IDEA编辑器中，配置项目使用的maven仓库和JDK版本（1.8）
 
